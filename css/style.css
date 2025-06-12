@@ -96,7 +96,7 @@ ul {
 /* 좌우버튼, 블릿버튼 슬라이드 꾸미기 */
 .bn {
     width: 100%;
-    height: calc(100vh - 92px);
+    height: calc(940px - 92px);
     margin-top: 92px;
 }
 
