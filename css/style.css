@@ -582,11 +582,11 @@ opacity: 1;
 }
 
 video {
-    filter: grayscale(1);
     padding-top: 50px;
     width: 1000px;
     margin: auto;
     display: block;
+    border-radius: 2000px;
 }
 
 #wrap3 p {
